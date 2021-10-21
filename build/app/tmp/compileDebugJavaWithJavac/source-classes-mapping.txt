@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/parcial_crud03/BuildConfig.java
+ com.example.parcial_crud03.BuildConfig
